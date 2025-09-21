@@ -14,13 +14,34 @@ A beginner-friendly Python project that generates silly stories based on user in
 
 Open your terminal and run:
 ```bash
-git clone https://github.com/hemantchaudhary001/madlibs-game.git
+git clone https://github.com/hemantchaudhary001-dotcom/madlibs-game.git
+
 Navigate into the folder:
 cd madlibs-game
 
-
 Run the Python script:
 python game-1.py
+
+## 🧪 Sample Output
+Enter a name: Hemant
+Enter a place: Kathmandu
+Enter an adjective: spooky
+Story: One day, Hemant went to Kathmandu and saw a spooky ghost!
+
+
+
+📚 What I Learned (shows your growth)
+## 📚 What I Learned
+
+- How to take user input in Python
+- How to format strings and build dynamic stories
+- How to use Git and GitHub to share projects
+
+
+
+
+
+
 
 
 
