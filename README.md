@@ -23,10 +23,10 @@ Run the Python script:
 python game-1.py
 
 ## 🧪 Sample Output
-Enter a name: Hemant
+Enter a name: Drake
 Enter a place: Kathmandu
 Enter an adjective: spooky
-Story: One day, Hemant went to Kathmandu and saw a spooky ghost!
+Story: One day, Drake went to Kathmandu and saw a spooky ghost!
 
 
 
