@@ -12,9 +12,23 @@ A beginner-friendly Python project that generates silly stories based on user in
 
 ## 🚀 How to Run
 
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/hemantchaudhary001/madlibs-game.git
-   cd madlibs-game
-   python game-1.py
+Open your terminal and run:
+```bash
+git clone https://github.com/hemantchaudhary001/madlibs-game.git
+Navigate into the folder:
+cd madlibs-game
+
+
+Run the Python script:
+python game-1.py
+
+
+
+
+
+
+
+
+
+  
    
